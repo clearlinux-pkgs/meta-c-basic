@@ -1,6 +1,6 @@
 Name:           meta-c-basic
 Version:        1
-Release:        1
+Release:        2
 License:        GPL-3.0
 Summary:        Build and run C/C++ language programs.
 Url:            https://clearlinux.org/
